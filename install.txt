@@ -1,3 +1,4 @@
 # Execute commands below
+opkg remove VESPa
 opkg install --force-overwrite vpz-update_1.0-4_x86_64.ipk
 clish
